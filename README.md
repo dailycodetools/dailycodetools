@@ -1,5 +1,5 @@
 ![Website](https://img.shields.io/badge/Website-DailyCodeTools-blue)
-![Tools](https://img.shields.io/badge/Tools-65+-green)
+![Tools](https://img.shields.io/badge/Tools-100+-green)
 ![License](https://img.shields.io/badge/License-Free-orange)
 ![SEO](https://img.shields.io/badge/SEO-Optimized-success)
 

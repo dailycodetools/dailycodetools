@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Welcome to DailyCodeTools
 
-<!--
-**dailycodetools/dailycodetools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Free Online Developer & SEO Tools
 
-Here are some ideas to get you started:
+DailyCodeTools provides a collection of free online tools designed for developers, designers, students, marketers, and businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website: https://dailycodetools.com
+
+## 🔥 Popular Tools
+
+- JSON Formatter
+- JSON Validator
+- SQL Formatter
+- XML Formatter
+- HTML Formatter
+- CSS Beautifier
+- JavaScript Beautifier
+- PHP Formatter
+- Base64 Encoder & Decoder
+- URL Encoder & Decoder
+- QR Code Generator
+- Barcode Generator
+- Password Generator
+- UUID Generator
+- Color Picker
+- Image to PDF
+- PDF Merge
+- PDF Split
+- PDF Compress
+- Word Counter
+- Case Converter
+- Hashtag Generator
+- GST Calculator
+- EMI Calculator
+- Compound Interest Calculator
+
+## ✨ Features
+
+- 100% Free
+- No Registration
+- Mobile Friendly
+- Secure Processing
+- Fast Performance
+- SEO Optimized
+
+## 🌍 Visit
+
+https://dailycodetools.com
+
+---
+Made with ❤️ by DailyCodeTools

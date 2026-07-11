@@ -1,3 +1,8 @@
+![Website](https://img.shields.io/badge/Website-DailyCodeTools-blue)
+![Tools](https://img.shields.io/badge/Tools-65+-green)
+![License](https://img.shields.io/badge/License-Free-orange)
+![SEO](https://img.shields.io/badge/SEO-Optimized-success)
+
 # 👋 Welcome to DailyCodeTools
 
 ## 🚀 Free Online Developer & SEO Tools
